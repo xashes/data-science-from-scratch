@@ -1,0 +1,16 @@
+#+TITLE: Study Notes for "Data Science from Scratch
+
+* ENV setup
+  #+BEGIN_SRC shell
+    git checkout -b study
+  #+END_SRC
+
+  #+BEGIN_SRC shell
+    git branch -a
+  #+END_SRC
+
+  #+RESULTS:
+  | master                |       |               |
+  | *                     | study |               |
+  | remotes/origin/HEAD   | ->    | origin/master |
+  | remotes/origin/master |       |               |
